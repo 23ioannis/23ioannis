@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif">
-# Hello World!, I'm Ioannis, a Greek Software engineer👋🏽 :
+
+# Hello World!, I'm Ioannis, a Greek Software engineer👋🏽:
 I'm an 18-year-old software engineer passionate about coding and technology. <br>Currently, I’m studying at IEK DELTA where I'm building a solid foundation in software development.<br>I love exploring new technologies and learning by building interesting projects.
 
 
@@ -15,6 +16,7 @@ I'm an 18-year-old software engineer passionate about coding and technology. <br
 
 ---
 [![](https://visitcount.itsvg.in/api?id=23ioannis&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/23ioannis/23ioannis/output/github-snake-dark.svg" />
