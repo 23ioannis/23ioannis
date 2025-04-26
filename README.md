@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif">
-
 #Hello World!, I'm Ioannis, a Greek Software engineer👋🏽:
 I'm an 18-year-old software engineer passionate about coding and technology.<br>Currently, I’m studying at IEK DELTA where I'm building a solid foundation in software development.<br>I love exploring new technologies and learning by building interesting projects.
 
@@ -13,13 +11,3 @@ I'm an 18-year-old software engineer passionate about coding and technology.<br>
 ![](https://github-readme-stats.vercel.app/api?username=23ioannis&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=23ioannis&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=23ioannis&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-badge&logo=npm&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=23ioannis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=23ioannis&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=23ioannis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=23ioannis&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
