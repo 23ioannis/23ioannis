@@ -1,4 +1,3 @@
-![banner69](Black Gradient Minimalistic Future Technology YouTube Banner.png)
 ##  Hello World!, I'm Ioannis, a Greek Software engineer👋🏽:
 I'm an 18-year-old software engineer passionate about coding and technology.<br>Currently, I’m studying at IEK DELTA where I'm building a solid foundation in software development.<br>I love exploring new technologies and learning by building interesting projects.
 
