@@ -1,3 +1,4 @@
+<img src="https://github.com/user-attachments/assets/31f6c2cd-92eb-4a89-bf6f-82e906864a73" width="500"/> <br><br>
 ##  Hello World!, I'm Ioannis, a Greek Software engineer👋🏽:
 I'm an 18-year-old software engineer passionate about coding and technology.<br>Currently, I’m studying at IEK DELTA where I'm building a solid foundation in software development.<br>I love exploring new technologies and learning by building interesting projects.
 
